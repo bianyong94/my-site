@@ -1,0 +1,6 @@
+{
+  "extands": "standard",
+  "plugins": [
+    "html"
+  ]
+}
